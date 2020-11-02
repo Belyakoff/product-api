@@ -4,7 +4,6 @@ import (
 	"net/http"
 	"os"
  	"log"
-	"io/ioutil"
 	"github.com/Belyakoff/product-api/handlers"
 ) 
 
